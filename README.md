@@ -1,9 +1,9 @@
 <div id="top"></div>
 <p align="center">
-<img src=https://img.shields.io/github/stars/ICEGXG/untitlednuker?color=6699ff&style=for-the-badge />
-<img src=https://img.shields.io/github/forks/ICEGXG/untitlednuker?color=6699ff&style=for-the-badge />
-<img src=https://img.shields.io/github/issues/ICEGXG/untitlednuker?color=6699ff&style=for-the-badge />
-<img src=https://img.shields.io/github/license/ICEGXG/untitlednuker?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/stars/lvgzz/eternitynuker?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/forks/lvgzz/eternitynuker?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/issues/lvgzz/eternitynuker?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/license/lvgzz/eternitynuker?color=6699ff&style=for-the-badge />
 </p>
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -13,12 +13,12 @@
   <h3 align="center">Multifunctional bot for destroying discord servers</h3>
   <p align="center">
     <br />
-    <a href="https://github.com/ICEGXG/UntitledNuker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lvgzz/eternitynuker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ICEGXG/UntitledNuker/issues">Report Bug</a>
+    <a href="https://github.com/lvgzz/eternitynuker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ICEGXG/UntitledNuker/issues">Request Feature</a>
+    <a href="https://github.com/lvgzz/eternitynuker/issues">Request Feature</a>
   </p>
 </p>
 
@@ -46,11 +46,11 @@
   </ol>
 </details>
 
-## About Untitled Nuker
+## About Eternity Nuker
 
-<img src="assets/screenshot.png" alt="Untitled Nuker">
+<img src="assets/screenshot.png" alt="Eternity Nuker">
 
-Untitled Nuker is multifunctional and feature-rich bot for destroying discord servers
+Eternity Nuker is multifunctional and feature-rich bot for destroying discord servers
 
 ### Features:
 * `Nuke Server`
@@ -95,15 +95,15 @@ To get a local copy up and running follow these simple steps.
     4. Scroll down to the "Privileged Gateway Intents" section, enable all privileged intents and save your changes.
 
 ### Installation
-If you use windows, you can simply run UntitledNuker.exe  
+***If you use windows, you can simply run EternityNuker.exe***
 Or you can follow next steps:
 1. Clone the repo
    ```sh
-   git clone https://github.com/ICEGXG/UntitledNuker
+   git clone https://github.com/lvgzz/eternitynuker
    ```
 2. Move to the source directory:
    ```sh
-   cd UntitledNuker/src
+   cd eternitynuker
    ```
 3. Install Python packages
    ```sh
@@ -112,7 +112,7 @@ Or you can follow next steps:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Usage
-Run the `UntitledNuker.py` file using `py -3 UntitledNuker.py`, or run `UntitledNuker.exe`  
+Run the `EternityNuker.exe`  
 At the first launch bot will ask you for:
    1. Bot token
    2. Prefix
@@ -123,8 +123,8 @@ Next times bot will run immediately.
 After starting you can use the !help command (Change `!` to your prefix), being on the same server as the bot (Or into PM). Bot will send you all the available commands.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Changelog (1.3.1)
-* Fixed error when launching using source code
+## Changelog (1.3.3)
+* Fixed error when launching
 * Added option to enable/disable logging via discord.py
 * Removed useless parts of the code
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -135,6 +135,6 @@ Use for educational purposes only
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
-Project Link: [https://github.com/ICEGXG/UntitledNuker](https://github.com/ICEGXG/UntitledNuker)  
+Project Link: [https://github.com/lvgzz/eternitynuker](https://github.com/lvgzz/eternitynuker)  
   
 <p align="right">(<a href="#top">back to top</a>)</p>
