@@ -13,7 +13,7 @@
   <h3 align="center">Multifunctional bot for destroying discord servers</h3>
   <p align="center">
     <br />
-    <a href="https://github.com/lvgzz/eternitynuker"><strong>Explore the docs »</strong></a>
+    <a href="https://www.virustotal.com/gui/file/8b2d80ed8868082671b2915225f17b1ea7c2d6bcecc8bbb0e5b13d7e44ac23cb/detection"><strong>Virustotal [As of 1.3.4] »</strong></a>
     <br />
     <br />
     <a href="https://github.com/lvgzz/eternitynuker/issues">Report Bug</a>
