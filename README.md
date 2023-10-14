@@ -123,7 +123,7 @@ Next times bot will run immediately.
 After starting you can use the !help command (Change `!` to your prefix), being on the same server as the bot (Or into PM). Bot will send you all the available commands.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Changelog (1.3.3)
+## Changelog (1.3.4)
 * Fixed error when launching
 * Added option to enable/disable logging via discord.py
 * Removed useless parts of the code
